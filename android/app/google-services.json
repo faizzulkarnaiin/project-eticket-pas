@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990256393407",
+    "project_id": "project-eticket-pas",
+    "storage_bucket": "project-eticket-pas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990256393407:android:a5885a61925442ab7e6a0a",
+        "android_client_info": {
+          "package_name": "com.example.project_pas_bus_eticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0pZZigqUCtGFc7sEquFVNlC2tB-DMt-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
